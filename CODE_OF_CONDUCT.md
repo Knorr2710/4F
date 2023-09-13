@@ -37,7 +37,7 @@ Unacceptable behavior includes, but is not limited to:
 
 ## Reporting Violations
 
-If you witness or experience any behavior that violates this Code of Conduct, please report it promptly to the project maintainers/administrators by contacting [CONTACT_EMAIL].
+If you witness or experience any behavior that violates this Code of Conduct, please report it promptly to the project maintainers/administrators by contacting s3974781@rmit.edu.vn.
 
 All reports will be kept confidential, and appropriate actions will be taken in response to violations, including warnings, temporary or permanent bans from the community, or other measures as necessary.
 
