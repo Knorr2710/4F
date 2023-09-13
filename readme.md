@@ -49,6 +49,7 @@ Thank you for your interest in the Blood Unity App by 4F. Together, we can make 
 * Vietnamese Bank Account:
 
 ![Bank Account QR Code](/timoqr.jpg)
+<img src="/timoqr.jpg" alt="Bank Account QR Code" width="300" height="200">
 
 ## Developers
 * **[Le Minh Tuan (s4032012)](https://github.com/Knorr2710)**
