@@ -43,4 +43,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 Thank you for your interest in the Blood Unity App by 4F. Together, we can make a difference in the world of blood donation!
 
-![Blood Unity Logo](/images/logo.png)
+![Blood Unity Logo](/logo.png)
