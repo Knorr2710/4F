@@ -9,7 +9,6 @@ Blood Unity is a mobile application aimed at making a positive impact on society
 ## Key Features
 
 - **User Registration and Login:** Easily create an account and log in to access our services.
-- **Branding and Visual Identity:** Explore our unique branding elements that represent our mission.
 - **Information and Mission:** Discover our goals and the importance of blood donation.
 - **Blood Donation Guidance:** Get comprehensive guidance on how to donate blood and be a lifesaver.
 - **Donation Schedule:** Plan your blood donation appointments at your convenience.
@@ -44,3 +43,12 @@ This project is licensed under the [MIT License](LICENSE.md).
 Thank you for your interest in the Blood Unity App by 4F. Together, we can make a difference in the world of blood donation!
 
 ![Blood Unity Logo](/logo.png)
+
+## Donations
+* XMR: `4AtFbwcANUEDQeXJHVT8THibFRehBgUMtX6tneRFn9XsXkwsn8XKFHpAF4JunhyMJb5fTe357dJ92jCuqtLroMLVBvWtoJX`
+
+## Developers
+* **[Hung Vu](https://github.com/Knorr2710)**
+
+
+## Contacts
