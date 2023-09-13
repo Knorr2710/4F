@@ -48,7 +48,11 @@ Thank you for your interest in the Blood Unity App by 4F. Together, we can make 
 * XMR: `4AtFbwcANUEDQeXJHVT8THibFRehBgUMtX6tneRFn9XsXkwsn8XKFHpAF4JunhyMJb5fTe357dJ92jCuqtLroMLVBvWtoJX`
 
 ## Developers
-* **[Hung Vu](https://github.com/Knorr2710)**
+* **[Le Minh Tuan (s4032012)](https://github.com/Knorr2710)**
+* **[Pham Tran Bao Tran (s3975175)](https://github.com/Tracienek)**
+* **[Vu Dam Khanh Hung (s3974781)](https://github.com/Knorr2710)**
+* **[Tran Chi Kien (s3975181)](https://github.com/Knorr2710)**
+
 
 
 ## Contacts
