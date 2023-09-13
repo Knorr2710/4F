@@ -35,7 +35,7 @@ We welcome contributions from the open-source community to help us improve and e
 
 ## Support and Feedback
 
-If you encounter any issues, have questions, or would like to provide feedback, please [open an issue](https://github.com/4F/BloodUnityApp/issues). We value your input and strive to make the app better with your help.
+If you encounter any issues, have questions, or would like to provide feedback, please [open an issue](https://github.com/4F/issues). We value your input and strive to make the app better with your help.
 
 ## License
 
