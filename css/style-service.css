@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*# Title*/
+
+.title
+{
+  display: flex; 
+  background-color: #F56063; 
+  padding: 20px;
+}
+
+.logo a {
+  font-size: 30px; 
+  color: #fff;
+  text-decoration: none;
+}
+
+.menu
+{
+  display: flex; 
+  justify-content: flex-end; 
+  gap: 30px; 
+  align-items: center;
+}
+
+.menu a
+{
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000;
+}
+
+
+/*# Footer*/
+footer {
+    background-color: #F56063; 
+    padding: 20px;
+    text-align: center;
+}
+
+/*# Service*/
+
+header {
+    background-color: #F56063;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+nav {
+    background-color: #FFFFFF;
+    color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav li a {
+    text-decoration: none; 
+    color: #F56063;
+}
+nav li a:hover {
+    padding: 9px;
+    background-color: #F56063;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+}
+
+.list-service {
+    display: flex;
+    padding-top: 70px;
+    padding-bottom: 95.5px;
+}
+
+.service {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 0px 20px 0px;
+    border-radius: 5px;
+    width: 270px; 
+    height: 320px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.service h2 {
+    margin-top: 0;
+    padding-bottom: 12px; 
+    padding-top: 15px; 
+    color:#F56063;
+    padding-left: 10px;
+}
+
+.service p {
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.service img {
+    width: 200px;
+    height: 200px;
+    padding-left: 30px;
+}
