@@ -1,0 +1,145 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*# Title*/
+
+.title
+{
+  display: flex; 
+  background-color: #F56063; 
+  padding: 20px;
+}
+
+.logo a {
+  font-size: 30px; 
+  color: #fff;
+  text-decoration: none;
+}
+.menu
+{
+  display: flex; 
+  justify-content: flex-end; 
+  gap: 30px; 
+  align-items: center;
+}
+
+.menu a
+{
+  color: #fff;
+}
+
+a:hover {
+  color: #000;
+}
+
+.test h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding: 30px 15px 0;
+    position: relative;
+    color: #F56063;
+    text-align: center;
+}
+
+/*# Footer*/
+footer {
+  background-color: #F56063; 
+  padding: 20px;
+  text-align: center;
+}
+
+/*# List of Station*/
+
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+  #menu {
+    list-style: none;
+    height: 48px;
+    padding: 20px 0;
+  }
+  #dropdown_menu {
+    padding: 30px 0;
+  }
+  #menu li {
+    text-align: left;
+    color: #fff;
+  }
+  #menu li a {
+    text-decoration: none;
+    font-size: 16px;
+    display: block;
+    padding: 15px;
+    color: #fff;
+    background-color: #F56063;
+  }
+  #menu > li {
+    float: left;
+    border-right: 1px solid #fff;
+    position: relative;
+  }
+  #menu > li > ul.dropdown_menu {
+    position: absolute;
+    list-style: none;
+    display: none;
+    top: 48px;
+    left: 0;
+    width: 200px;
+  }
+  #menu > li:hover > a {
+    background-color: #f17173d0;
+  }
+  #menu > li:hover > ul.dropdown_menu {
+    z-index: 100;
+    display: block;
+  }
+  ul.dropdown_menu > li > ul.submenu {
+    position: absolute;
+    display: none;
+    left: 200px;
+    list-style: none;
+    width: 200px;
+  }
+  ul.dropdown_menu > li:hover > a {
+    background-color: #f17173d0 !important;
+  }
+  ul.dropdown_menu > li:hover > ul.submenu {
+    z-index: 100;
+    display: block;
+  }
+
+  .arrow {
+    width: 0;
+    height: 0;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5px;
+  }
+  .arrow-down {
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-top: 7px solid #fff;
+  }
+  .arrow-right {
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-left: 7px solid #fff;
+  }
+
+  .formbold-btn {
+    text-align: center;
+    font-size: 16px;
+    border-radius: 6px;
+    padding: 14px 10px;
+    border: none;
+    font-weight: 600;
+    background-color: #F56063;
+    width: 15%;
+    cursor: pointer;
+  }
+  .formbold-btn:hover {
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.05);
+  }

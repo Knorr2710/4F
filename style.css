@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*# Title*/
+
+.title
+{
+  display: flex; 
+  background-color: #F56063; 
+  padding: 20px;
+}
+
+.logo a {
+  font-size: 30px; 
+  color: #fff;
+  text-decoration: none;
+}
+.menu
+{
+  display: flex; 
+  justify-content: flex-end; 
+  gap: 30px; 
+  align-items: center;
+}
+
+.menu a
+{
+  color: #fff;
+}
+
+a:hover {
+  color: #000;
+}
+
+.ul li a i {
+  margin-left: 20px;
+}
+
+/*# Footer*/
+footer {
+  background-color: #F56063; 
+  padding: 20px;
+  text-align: center;
+}
+
+/*# Profile */
+.section-tilte
+{
+  justify-content: flex-start; 
+  font-size: 30px; 
+  margin-top: 20px; 
+  margin-bottom: 20px;
+  color: rgb(31, 31, 82);
+}
+.content 
+{
+  display: flex;
+  justify-content: center;
+  gap: 42px;
+  font-size: 18px;
+}
+.section-title h2 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #2c4964;
+}
+
+.tabs {
+  border-bottom: 1px solid #ddd;
+}
+
+.nav-tabs {
+  display: flex;
+  list-style: none;
+  margin: 0px;
+  padding: 0;
+  border-bottom: 3px solid #ddd;
+}
+
+.nav-tabs li {
+  margin-right: 10px;
+}
+
+.nav-tabs li a {
+  display: block;
+  padding: 6px 10px;
+  text-decoration: none;
+  position: relative;
+  color: #414141
+}
+
+.nav-tabs li a::after {
+  content: "";
+  height: 3px;
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  bottom: -3px;
+  background: transparent;
+}
+
+.nav-tabs li.active a::after, .nav-tabs li:hover a::after {
+  background: #F56063;
+}
+
+.tab-content {
+  padding: 10px 0px;
+}
+
+.appointment-btn
+{
+  margin-left: 25px;
+  background: #e05353;
+  color: #fff;
+  border-radius: 50px;
+  padding: 8px 25px;
+  white-space: nowrap;
+  transition: 0.3s;
+  font-size: 14px;
+  display: inline-block;
+}
+
+.appointment-btn:hover {
+  background: #b95b5b;
+  color: #fff;
+}
+
+@media (max-width: 768px) {.appointment-btn {
+    margin: 0 15px 0 0;
+    padding: 6px 18px;
+  }}
+
+/*# Profile*/
+
+.profile {
+  text-align: start;
+  line-height: 33px;
+}
+
+.h3 {
+  font-size: 26px;
+  padding: 18px 0;
+}
+
+.avatar {
+  align-content: end;
+}
+
+.form-apm-his {
+  border: 1px solid #bdbdbd;
+  width: 70%;
+
+}
+
+.form-apm-history {
+  margin: 20px 30px;
+  line-height: 25px;
+}
+
+.qr {
+  text-align: center;
+}
+
+.detail-history {
+  border: 1px solid #bdbdbd;
+  text-align: center;
+  padding: 20px 0;
+  line-height: 20px;
+}
+
+.detail-history img {
+  width: 250px; 
+  height: 350px;
+}
